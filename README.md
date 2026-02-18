@@ -58,9 +58,11 @@ To optimize power consumption for edge or IoT applications:
 **1️⃣ Offset Mode**
 Allows the user to compensate for static acceleration (e.g., gravity) at a specific installation orientation.  
 This improves measurement accuracy by removing gravitational bias from the vibration signal.
+
 **2️⃣ Wake-Up Mode**
 Forces the sensor node to operate immediately, even if the vibration level is below the predefined threshold.  
 Useful for diagnostics or manual inspection.
+
 **3️⃣ Train Function**
 Temporarily increases measurement precision and resolution during a selected time interval.  
 This mode enhances data quality for calibration, testing, or detailed signal analysis.
