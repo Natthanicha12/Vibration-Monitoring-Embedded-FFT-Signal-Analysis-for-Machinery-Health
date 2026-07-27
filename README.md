@@ -66,3 +66,8 @@ Useful for diagnostics or manual inspection.
 **3️⃣ Train Function**
 Temporarily increases measurement precision and resolution during a selected time interval.  
 This mode enhances data quality for calibration, testing, or detailed signal analysis.
+
+##As I co-developed this project with my team member, the section I worked on can be reviewed 
+-> Vibration_LoRa/Vibration_LoRa/STM32CubeIDE/Application/Primus/Interface/Inc/Sensor.h
+-> Vibration_LoRa/Vibration_LoRa/STM32CubeIDE/Application/Primus/Interface/Src/Sensor.c
+-> Vibration_LoRa/Vibration_LoRa/STM32CubeIDE/Application/Primus/Application.c
